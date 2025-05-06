@@ -17,6 +17,6 @@
     "morgan": "~1.6.1",
     "pg-promise": "^4.4.6",
     "serve-favicon": "~2.3.0"
-    "rand-user-agent": "1.0.110"
+    "rand-user-agent": "2.0.84"
   }
 }
